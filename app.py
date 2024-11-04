@@ -106,9 +106,6 @@ with gr.Blocks() as demo:
     # Filtre uygula butonu
     apply_button = gr.Button("Filtreyi Uygula")
 
-    # Kaydetme butonu
-    save_button = gr.Button("Görüntüyü İndir")
-    save_output = gr.Textbox(label="İndirme Durumu")
 
     # Geri dön butonu
     reset_button = gr.Button("Sayfayı Sıfırla")
