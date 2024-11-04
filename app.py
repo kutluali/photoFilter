@@ -126,8 +126,6 @@ with gr.Blocks() as demo:
         outputs=output_image
     )
 
-    # Kaydetme butonu
-    save_button.click(fn=save_image, inputs=output_image, outputs=save_output)
 
     # Geri dön butonu
     reset_button.click(
