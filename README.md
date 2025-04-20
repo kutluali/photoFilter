@@ -1,5 +1,5 @@
 ---
-title: ##PhotoFilter##
+title: PhotoFilter
 emoji: 🔥
 colorFrom: gray
 colorTo: pink
