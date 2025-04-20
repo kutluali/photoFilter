@@ -21,10 +21,11 @@ OpenCV, 2000 yılında Intel tarafından geliştirilmiş ve daha sonra açık ka
 
 Çalışmalarımda "Nesne Tanıma", "Hareket Takibi" ve "Yüz Tanıma" üzerine yoğunlaşmamda sağladığı katkılar için hocama bir kez daha teşekkür ederim.
 
-https://media.licdn.com/dms/image/v2/D4D22AQFAZJOxffBDwg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730742375736?e=1747872000&v=beta&t=9Vf3wLBYYduHrSVPNdkZISDXzBwbeS5hqjHzQ2npN8U
 
-https://media.licdn.com/dms/image/v2/D4D22AQFnnedgjzWAiQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730742381686?e=1747872000&v=beta&t=DYJMNDn8wVTg1gemP9bfVfomq-UPQWIysLjOGWWltS0
+![1](https://github.com/user-attachments/assets/14d8770b-2390-4aef-a89c-b76380bc3400)
 
-https://media.licdn.com/dms/image/v2/D4D22AQEMKbBQUMbKfA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730742382441?e=1747872000&v=beta&t=XpIwwpNi4TTTxGDKunqvX7aAcbh_DG3hhBVz3SyitIQ
+![2](https://github.com/user-attachments/assets/7ce4d3ee-9963-402d-8afe-1ecf95c573ad)
 
-https://media.licdn.com/dms/image/v2/D4D22AQGW1PrnaTBJUw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730742378119?e=1747872000&v=beta&t=pfQF_Xt3JNVJroPMyRtbst9skpcy-SYfuytPihZa39Q
+![4](https://github.com/user-attachments/assets/76330349-bcec-4bfd-ac8e-ca22b97ab610)
+
+![3](https://github.com/user-attachments/assets/cf650e29-f28c-4c75-9614-bc6751f6e991)
