@@ -1,5 +1,5 @@
 ---
-title: PhotoFilter
+title: ##PhotoFilter##
 emoji: 🔥
 colorFrom: gray
 colorTo: pink
@@ -17,9 +17,7 @@ Değerli Hocam Dr. Murat Altun'un eğitmenliğinde gerçekleştirdiğimiz Python
 
 OpenCV, 2000 yılında Intel tarafından geliştirilmiş ve daha sonra açık kaynak olarak sunulmuş bir kütüphanedir. Görüntü işleme, nesne tanıma, yüz tanıma, hareket takibi ve makine öğrenimi gibi birçok alanda geniş bir araç seti sunar.
 
-"photoFilter" adlı projemde, uygulamam ile fotoğraflarınıza edit işlemleri ile metin yazıları oluşturabilirsiniz. Projem 72 saat boyunca Hugging Face'de canlı olacak.
-
-Çalışmalarımda "Nesne Tanıma", "Hareket Takibi" ve "Yüz Tanıma" üzerine yoğunlaşmamda sağladığı katkılar için hocama bir kez daha teşekkür ederim.
+"photoFilter" adlı projemde, uygulamam ile fotoğraflarınıza edit işlemleri ile metin yazıları oluşturabilirsiniz.
 
 
 ![1](https://github.com/user-attachments/assets/14d8770b-2390-4aef-a89c-b76380bc3400)
